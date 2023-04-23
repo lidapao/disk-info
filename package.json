@@ -1,23 +1,23 @@
 {
-  "author": "Benoit Gauthier",
+  "author": "lidapao",
   "name": "diskinfo",
-  "description": "Nodejs module to get drive information, tested on linux centos and windows vista",
-  "version": "0.0.3",
+  "description": "Nodejs module to get drive information, tested on linux centos and windows ",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "./lib/diskinfo.js",
   "scripts": {   
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BenoitGauthier/diskinfo.git"
+    "url": "https://github.com/lidapao/disk-info.git"
   },
   "keywords": [
 	"diskinfo",
-    "disk",
-    "disks",
-    "free space",
-    "volumes",
-    "harddisk",
+    	"disk",
+   	"disks",
+    	"free space",
+    	"volumes",
+    	"harddisk",
 	"hard drive"
   ],
   "main": "./lib/diskinfo",
