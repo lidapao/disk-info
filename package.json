@@ -1,6 +1,6 @@
 {
   "author": "lidapao",
-  "name": "diskinfo",
+  "name": "disk-info",
   "description": "Nodejs module to get drive information, tested on linux centos and windows ",
   "version": "1.0.0",
   "license": "MIT",
